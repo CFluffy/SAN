@@ -1,0 +1,3 @@
+Just remove me if you already placed something in this folder.
+This file is just for the sake of visibility of some folders to avoid confusion so
+nobody asks questions about missing folders that should be there.
