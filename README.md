@@ -1,3 +1,4 @@
+You might want to take care of installing Hugo first https://gohugo.io/getting-started/quick-start/.
 Go to this project's root folder in your terminal and type "hugo server -D".
 If done correctly you should be able to see a demonstration of how our Website is
 going to look like in its current state at http://localhost:1313/.
