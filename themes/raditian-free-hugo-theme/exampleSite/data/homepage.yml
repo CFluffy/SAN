@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Tim."
   subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "This website was established to give Alumni of our Sinology Department at the <a target='_blank' href='https://www.uni-wuerzburg.de/en/home/'>Sinologie</a> a chance to stay updated about department specific events, activities or even job opportunities."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
