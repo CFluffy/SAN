@@ -3,7 +3,10 @@ showcase:
   enable: true
   title: "SAN"
   subtitle: "Sinology Alumni Network"
-  description: "This website was established to give Alumni of our Sinology Department at the <a target='_blank' href='https://www.uni-wuerzburg.de/en/home/'>University of Würzburg</a> a chance to stay updated about department specific events, activities or even job opportunities."
+  description: "SAN (Sinology Alumni Network) has been established in 2007 by graduates of the University of Würzburg in order to remain in contact with former students of the Sinology Department. What had been set up as a forum before, has now received a major makeup, shifting towards a newsletter-based form of communication. It is our goal to keep you updated about current and future developments, events, and job opportunities in the field of sinology. No matter what kind of degree in sinology (B. A. / M. Sc / M. A.) and specific field of interest you have got, feel free to sign up for our newsletter be-low.
+简介:
+SAN (汉学校友网)是由维尔茨堡大学的毕业生于2007年建立，促进校友间联系的论坛。现在我们将论坛进行了改造，转向以交流为主，实时通讯为基础的交流平台。访问SAN及时掌握汉学当前活动、发展动态，检索校友信息、寻找工作机会，获得个人成长、终身发展。无论你是汉学的本科还是硕士毕业生，无论你对哪块专业领域感兴趣，都可以在下面订阅我们的实时通讯.
+。"
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
