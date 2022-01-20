@@ -3,14 +3,13 @@ showcase:
   enable: true
   title: "SAN"
   subtitle: "Sinology Alumni Network"
-  description: "SAN (Sinology Alumni Network) has been established in 2007 by graduates of the University of Würzburg in order to remain in contact with former students of the Sinology Department. What had been set up as a forum before, has now received a major makeup, shifting towards a newsletter-based form of communication. It is our goal to keep you updated about current and future developments, events, and job opportunities in the field of sinology. No matter what kind of degree in sinology (B. A. / M. Sc / M. A.) and specific field of interest you have got, feel free to sign up for our newsletter be-low.
-简介:
-SAN (汉学校友网)是由维尔茨堡大学的毕业生于2007年建立，促进校友间联系的论坛。现在我们将论坛进行了改造，转向以交流为主，实时通讯为基础的交流平台。访问SAN及时掌握汉学当前活动、发展动态，检索校友信息、寻找工作机会，获得个人成长、终身发展。无论你是汉学的本科还是硕士毕业生，无论你对哪块专业领域感兴趣，都可以在下面订阅我们的实时通讯.
-。"
+  description: "SAN (Sinology Alumni Network) has been established in 2007 by graduates of the University of Würzburg in order to remain in contact with former students of the Sinology Department. What had been set up as a forum before, has now received a major makeup, shifting towards a newsletter-based form of communication. It is our goal to keep you updated about current and future developments, events, and job opportunities in the field of sinology. No matter what kind of degree in sinology (B. A. / M. Sc / M. A.) and specific field of interest you have got, feel free to sign up for our newsletter be-low. SAN (汉学校友网)是由维尔茨堡大学的毕业生于2007年建立，促进校友间联系的论坛。现在我们将论坛进行了改造，转向以交流为主，实时通讯为基础的交流平台。访问SAN及时掌握汉学当前活动、发展动态，检索校友信息、寻找工作机会，获得个人成长、终身发展。无论你是汉学的本科还是硕士毕业生，无论你对哪块专业领域感兴趣，都可以在下面订阅我们的实时通讯。"
   image:
+    alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
   imageMobile:
+    alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase-mobile.jpg"
 
   button:
@@ -54,23 +53,10 @@ about:
   enable: true
   title: "Newsletter"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
-    </p>
+    If you wish to remain in touch and be kept up to date, also after having left our university, make sure to subscribe to our newsletter. Just fill in the form below and choose for yourself what sort of infor-mation you would like to receive. Once you have been added to our list of subscribers you are going to hear from us whenever something important pops up.
+    </p>      
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
-
-        I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
-
-    <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    如果你希望在离校后仍能与大家保持联系并获得最新信息，请务必订阅我们的实时通讯。只需填写下面的表格，并选择你想收到的信息类型。一旦你被添加到我们的订阅者名单中，就能第一时间掌握你想要的信息。
     </p>'
   button:
     icon: "icon-smile-fill"
