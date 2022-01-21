@@ -60,7 +60,7 @@ about:
     </p>'
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
+    btnText: "Registration"
     URL: "https://www.linkedin.com/company/radity/"
   image:
     x: "img/who-am-i/user-picture.png"
