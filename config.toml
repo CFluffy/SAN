@@ -27,12 +27,12 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "Newsletter"
-  URL = "#newsletter"
+  URL = "#about"
   weight = 2
 
   [[menu.header]]
   name = "Other Sinologies"
-  URL = "#other_sinologies"
+  URL = "#portfolio"
   weight = 3
 
   [[menu.header]]
@@ -43,12 +43,12 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.footer]]
   name = "Newsletter"
-  URL = "#newsletter"
+  URL = "#about"
   weight = 2
 
   [[menu.footer]]
   name = "Other Sinologies"
-  URL = "#other_sinologies"
+  URL = "#portfolio"
   weight = 3
 
   [[menu.footer]]
