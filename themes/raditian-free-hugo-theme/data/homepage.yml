@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: ""
   subtitle: "Sinology Alumni Network"
-  description: "SAN (Sinology Alumni Network) has been established in 2007 by graduates of the University of Würzburg in order to remain in contact with former students of the Sinology Department. What had been set up as a forum before, has now received a major makeup, shifting towards a newsletter-based form of communication. It is our goal to keep you updated about current and future developments, events, and job opportunities in the field of sinology. No matter what kind of degree in sinology (B. A. / M. Sc / M. A.) and specific field of interest you have got, feel free to sign up for our newsletter be-low. <p>SAN (汉学校友网)是由维尔茨堡大学的毕业生于2007年建立，促进校友间联系的论坛。现在我们将论坛进行了改造，转向以交流为主，实时通讯为基础的交流平台。访问SAN及时掌握汉学当前活动、发展动态，检索校友信息、寻找工作机会，获得个人成长、终身发展。无论你是汉学的本科还是硕士毕业生，无论你对哪块专业领域感兴趣，都可以在下面订阅我们的实时通讯。</p>"
+  description: "SAN (Sinological Alumni Network) has been established in 2007 by graduates and research associates of the University of Würzburg’s Institute of East and South Asian Cultural Studies (Chinese Studies) in order to remain in contact and facilitate communication among former students of the Sinology Department. In addition SAN has been used to recruit speakers for the yearly Post-Graduation Perspectives lecture, during which former students present their career paths and talk about their experiences post-graduation. What had been set up as a forum before, has now received a major makeup, shifting towards a simple website that contains information on the network as well as a possibility to sign up for membership and a newsletter. It is our goal to keep you updated about current and future developments, events, and job opportunities in the field of sinology. No matter what kind of degree in sinology (B. A. / M. Sc / M. A.) and specific field of interest you have got, feel free to sign up below. <p>SAN (汉学校友网)是由维尔茨堡大学东亚和南亚文化研究所（中国研究方向）的毕业生和研究人员于2007年建立，促进汉学系毕业生间的交流论坛。此外，SAN还被用来为每年的毕业展望讲座招募演讲者，在讲座中，以前的学生介绍他们的职业规划并讲述毕业后的经历。现在我们将之前的论坛进行了改造，转向了一个包含了网络基本信息，同时也可以注册会员获得实习通讯的简洁网页。访问SAN了解汉学领域当前和未来的发展，及时掌握当前活动，寻找工作机会，获得个人成长、终身发展。无论你在汉学领域有什么样的学位（学士/理学硕士/文学硕士），无论你对哪块专业领域感兴趣，都可以在下面注册。</p>"
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/sonnenschirme.jpg"
@@ -52,12 +52,11 @@ showcase:
 about:
   enable: true
   title: "Newsletter"
-  content: '<p class="lead">
-    If you wish to remain in touch and be kept up to date, also after having left our university, make sure to subscribe to our newsletter. Just fill in the form below and choose for yourself what sort of infor-mation you would like to receive. Once you have been added to our list of subscribers you are going to hear from us whenever something important pops up.
-    </p>      
-    <p class="lead">
-    如果你希望在离校后仍能与大家保持联系并获得最新信息，请务必订阅我们的实时通讯。只需填写下面的表格，并选择你想收到的信息类型。一旦你被添加到我们的订阅者名单中，就能第一时间掌握你想要的信息。
-    </p>'
+  content: 
+    Who can become a member?
+    <p> All students of Würzburg University’s Institute of East and South Asian Cultural Studies (Chinese Studies) may become members of the Sinological Alumni Network Würzburg. This includes students of the current Modern China B.A. (major and minor), Chinese Studies M.A., Chinese Politics and Society M.A., China Business and Economics M.Sc. study programs as well as former graduates. Current students might sign up during their last term by filling in and signing the membership form. Membership is free of charge.</p>      
+    <p> 谁可以成为会员？ </p>
+    <p> 维尔茨堡大学东亚和南亚文化研究所（中国研究方向）的所有学生都可以成为维尔茨堡汉学校友网的会员。目前包涵现代中国学学士（主修和辅修）、汉学研究硕士、中国政治和社会学硕士以及中国商业和经济学硕士这些项目的学生以及所有毕业生。在校学生可以在最后一个学期通过填写和签署会员表格来报名，获取会员资格是免费的。</p>
   button:
     icon: "icon-smile-fill"
     btnText: "Registration"
