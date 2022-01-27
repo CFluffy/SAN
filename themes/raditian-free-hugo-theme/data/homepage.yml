@@ -60,7 +60,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "Registration"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "img/general/NETWORKMEMBERSHIPREGISTRATIONFORM.pdf"
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
@@ -71,7 +71,7 @@ about:
 client_and_work:
   title: "Other Sinologies"
   description: "Text to introduce said Sinologies"
-  enable: true
+  enable: false
 
   clients:
     - logo:
