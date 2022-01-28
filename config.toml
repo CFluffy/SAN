@@ -31,11 +31,6 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.header]]
-  name = "Other Sinologies"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.header]]
   name = "Contact"
   URL = "#contact"
   weight = 4
@@ -45,11 +40,6 @@ theme = "raditian-free-hugo-theme"
   name = "Newsletter"
   URL = "#about"
   weight = 2
-
-  [[menu.footer]]
-  name = "Other Sinologies"
-  URL = "#portfolio"
-  weight = 3
 
   [[menu.footer]]
   name = "Contact"
