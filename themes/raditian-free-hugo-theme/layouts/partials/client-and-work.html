@@ -5,6 +5,14 @@
       {{ .Site.Data.homepage.client_and_work.title }}
     </h2>
     <div class="row row--padded rad-animation-group rad-fade-down">
+      <div class="row platform-links">
+        <div class="col-12">
+          {{ range .Site.Data.homepage.showcase.socialLinks }}
+          <a href="{{ .URL | absURL }}" target="_blank"
+            ><i class="icon-{{ .icon }}-line"></i
+          ></a>
+          {{ end }}
+        </div>
       <div class="col-12">
         <div class="clients">
           {{ range .Site.Data.homepage.client_and_work.clients }}
@@ -33,9 +41,6 @@
         <p class="lead">
           {{ .description }}
         </p>
-        <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-          >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
-        ></a>
       </div>
       <div class="col-12 col-md-7 pl-md-0 text-right">
         <img
@@ -61,9 +66,6 @@
         <p class="lead">
           {{ .description }}
         </p>
-        <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-          >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
-        ></a>
       </div>
       {{ end }}
     </div>

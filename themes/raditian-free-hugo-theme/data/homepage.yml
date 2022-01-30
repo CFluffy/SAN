@@ -40,17 +40,13 @@ about:
 
 # Client & Work
 client_and_work:
-  title: "Other Sinologies"
+  title: "Contact"
   description: "Text to introduce said Sinologies"
   enable: true
 
   works:
-    - title: "Contact"
+    - title: ""
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
