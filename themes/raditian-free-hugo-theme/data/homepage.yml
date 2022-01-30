@@ -42,41 +42,10 @@ about:
 client_and_work:
   title: "Other Sinologies"
   description: "Text to introduce said Sinologies"
-  enable: false
-
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+  enable: true
 
   works:
-    - title: "Radity Finance - UI Kit"
+    - title: "Contact"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:
         icon: "icon-arrow-right"
@@ -85,28 +54,6 @@ client_and_work:
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
-      is_even: true
-
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
       is_even: true
 
 # testimonial
