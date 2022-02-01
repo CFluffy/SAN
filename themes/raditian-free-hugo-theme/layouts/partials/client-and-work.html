@@ -39,17 +39,11 @@
       <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
         <h3>{{ .title }}</h3>
         <p class="lead">
-          {{ .description }}
+          {{ .description | safeHTML }}
         </p>
       </div>
       <div class="col-12 col-md-7 pl-md-0 text-right">
-        <img
-          class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
-          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .image.x | absURL }}"
-          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
-          alt="{{ .title }}"
-        />
+        <img class="img-fluid" src="img/general/logo.jpeg" srcset="img/general/logo.jpeg" width="500" height="500" alt="Header Logo"/>
       </div>
       {{ else }}
       <div class="col-12 col-md-7 pl-md-0 text-right">

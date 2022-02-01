@@ -30,21 +30,11 @@ theme = "raditian-free-hugo-theme"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
 
   [[menu.footer]]
   name = "Newsletter"
   URL = "#about"
   weight = 2
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
 
 
 [params]
